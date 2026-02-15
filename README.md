@@ -443,8 +443,6 @@ This work was financially supported by the Office of the Permanent Secretary, Mi
 
 ## 📖 Citation
 If you use the concept, code, data or models in this repository, please cite the following paper:
-## 📖 Citation
-If you use the concept, code, data or models in this repository, please cite the following paper:
 ```
 @article{10.1109/TSE.2024.3509016,
     author = {Choetkiertikul, Morakot and Banyongrakkul, Peerachai and Ragkhitwetsagul, Chaiyong and Tuarob, Suppawong and Dam, Hoa Khanh and Sunetnanta, Thanwadee},
